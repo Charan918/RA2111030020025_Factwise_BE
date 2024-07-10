@@ -1,0 +1,46 @@
+{
+  "boards":[
+    {
+      "id":1,
+      "name":"Development Board",
+      "tasks":[
+        {
+          "id":101,
+          "tittle": "Implemet User Authentication",
+          "description":"Add login and registration functionality",
+          "status":"In progress",
+          "assignee": "Alice"
+        },
+        {
+          "id":102,
+          "title":"Refractor database queries",
+          "description":"optimize sql queries for better  perfomace",
+          "status":"To Do",
+          "assignee":"Bob"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name": "Design Board",
+      "tasks":[
+        {
+          "id":201,
+          "title":"create  wireframes for homage",
+          "description":"draft initial wireframes for the website's homepage",
+          "status": "Done",
+          "assignee":"Charlie"
+
+        }
+      ]
+    }
+
+
+
+        
+
+        
+  ]
+}
+
+  
